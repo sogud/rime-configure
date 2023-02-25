@@ -2,11 +2,11 @@ __build_info:
   rime_version: 1.8.5
   timestamps:
     default: 1675621991
-    default.custom: 1676088683
+    default.custom: 1677225242
     key_bindings: 1675621991
     key_bindings.custom: 0
-    luna_pinyin_simp.custom: 1676088210
-    luna_pinyin_simp.schema: 1676088210
+    luna_pinyin_simp.custom: 1676794908
+    luna_pinyin_simp.schema: 1676089041
     punctuation: 1675621991
     punctuation.custom: 0
     symbols: 1675621991
@@ -52,7 +52,7 @@ engine:
     - "lua_translator@date_translator"
 english:
   dictionary: easy_en
-  enable_completion: false
+  enable_completion: true
   enable_sentence: false
   initial_quality: "-0.5"
   spelling_hints: 9
@@ -121,7 +121,7 @@ punctuator:
     ",": {commit: "，"}
     "-": "-"
     .: {commit: "。"}
-    "/": ["/", "÷"]
+    "/": "/"
     ":": {commit: "："}
     ";": {commit: "；"}
     "<": "《"
@@ -369,6 +369,8 @@ speller:
   algebra:
     - "xform/^([b-df-hj-np-tv-z])$/$1_/"
     - "erase/^xx$/"
+    - "derive/^([zcs])h/$1/"
+    - "derive/^([zcs])([^h])/$1h$2/"
     - "abbrev/^([a-z]).+$/$1/"
     - "abbrev/^([zcs]h).+$/$1/"
     - "derive/^([nl])ve$/$1ue/"

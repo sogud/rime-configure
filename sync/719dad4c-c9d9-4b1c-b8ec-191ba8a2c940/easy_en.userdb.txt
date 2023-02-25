@@ -2,33 +2,40 @@
 #@/db_name	easy_en.userdb
 #@/db_type	userdb
 #@/rime_version	1.5.3
-#@/tick	34
+#@/tick	43
 #@/user_id	719dad4c-c9d9-4b1c-b8ec-191ba8a2c940
-as 	as	c=1 d=0.985112 t=34
-data 	data	c=1 d=0.980199 t=34
-express 	express	c=1 d=0.965605 t=34
-final 	final	c=1 d=0.99005 t=34
-for 	for	c=1 d=0.970446 t=34
-form 	form	c=1 d=0.995012 t=34
-front 	front	c=1 d=1 t=33
-index 	index	c=1 d=0.985112 t=34
-is 	is	c=1 d=1 t=34
-logo 	logo	c=1 d=1 t=32
-name 	name	c=1 d=0.951229 t=34
-new 	new	c=1 d=1 t=29
-no 	no	c=1 d=0.970446 t=34
-one 	one	c=1 d=1 t=34
-open 	open	c=1 d=1 t=34
-out 	out	c=1 d=1 t=34
-post 	post	c=1 d=0.965605 t=34
-source 	source	c=1 d=1 t=30
-test 	test	c=2 d=1.91202 t=34
-thank 	thank	c=1 d=0.99005 t=34
-the 	the	c=1 d=0.946485 t=34
-this 	this	c=1 d=0.960789 t=34
-top 	top	c=2 d=1.89382 t=34
-use 	use	c=1 d=1 t=31
-user 	user	c=1 d=0.980199 t=34
-we 	we	c=1 d=1 t=28
-window 	window	c=3 d=2.77537 t=34
-you 	you	c=1 d=0.955997 t=34
+as 	as	c=2 d=1.93654 t=43
+data 	data	c=1 d=0.980199 t=43
+express 	express	c=1 d=0.965605 t=43
+feature 	feature	c=1 d=1 t=39
+final 	final	c=1 d=0.99005 t=43
+for 	for	c=1 d=0.970446 t=43
+form 	form	c=1 d=0.995012 t=43
+front 	front	c=1 d=0.995012 t=43
+index 	index	c=1 d=0.985112 t=43
+is 	is	c=1 d=1 t=43
+logo 	logo	c=1 d=0.99005 t=43
+name 	name	c=1 d=0.951229 t=43
+new 	new	c=2 d=1.90752 t=43
+no 	no	c=1 d=0.970446 t=43
+okay 	okay	c=7 d=6.79533 t=43
+one 	one	c=1 d=1 t=43
+open 	open	c=1 d=1 t=43
+out 	out	c=1 d=1 t=43
+post 	post	c=1 d=0.965605 t=43
+request 	request	c=1 d=1 t=56
+ship 	ship	c=1 d=1 t=57
+source 	source	c=1 d=0.980199 t=43
+test 	test	c=2 d=1.91202 t=43
+thank 	thank	c=1 d=0.99005 t=43
+the 	the	c=1 d=0.946485 t=43
+this 	this	c=1 d=0.960789 t=43
+top 	top	c=2 d=1.89382 t=43
+use 	use	c=1 d=0.985112 t=43
+user 	user	c=1 d=0.980199 t=43
+we 	we	c=2 d=1.898 t=43
+wend 	wend	c=2 d=1.95084 t=43
+window 	window	c=3 d=2.77537 t=43
+women 	women	c=1 d=1 t=39
+yarn 	yarn	c=2 d=1.99005 t=42
+you 	you	c=1 d=0.955997 t=43

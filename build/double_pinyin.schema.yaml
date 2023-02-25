@@ -2,11 +2,11 @@ __build_info:
   rime_version: 1.8.5
   timestamps:
     default: 1675621991
-    default.custom: 1676088683
-    double_pinyin.custom: 1676088209
-    double_pinyin.schema: 1676088209
-    grammar: 1676088209
-    grammar.custom: 1676088209
+    default.custom: 1677225242
+    double_pinyin.custom: 1676089041
+    double_pinyin.schema: 1676089041
+    grammar: 1676089041
+    grammar.custom: 1676795322
     key_bindings: 1675621991
     key_bindings.custom: 0
     punctuation: 1675621991

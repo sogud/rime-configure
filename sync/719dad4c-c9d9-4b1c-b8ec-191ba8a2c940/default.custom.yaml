@@ -1,11 +1,13 @@
 patch:
+  switcher/hotkeys:
+    - Control+Space
   schema_list:
     - schema: luna_pinyin_simp # 朙月拼音
     - schema: double_pinyin_flypy # 小鹤双拼
     - schema: double_pinyin # 自然码双拼
     - schema: numbers # 大写数字
 
-  menu/page_size: 9 # 候选词个数
+  menu/page_size: 5 # 候选词个数
 
   # 若 caps 切换大小写无效, 打开 Mac 系统偏好设置 > 键盘 > 输入法 > 取消勾选[使用大写锁定键切换“美国”输入模式]
   ascii_composer/good_old_caps_lock: true # 若为 true， Caps 只切换大小写
@@ -42,3 +44,10 @@ patch:
     #- { when: composing, accept: Control+b, send: Left }           # "Control+b" 移动光标
     #- { when: composing, accept: Control+f, send: Right }          # "Control+f" 向右选择候选词
     #- { when: composing, accept: Control+h, send: BackSpace }      # "Control+h" 删除输入码
+
+switcher:
+  abbreviate_options: true
+  caption: "〔方案選單〕"
+  fold_options: true
+  hotkeys:
+    - F4
